@@ -14,7 +14,7 @@ After installing the mod, you will see a new research tree in the MAM called *Re
 
 ![Image of the added MAM research tree ](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/MAM.png)
 
-The buildings you unlock there will show up in the Build Gun under the category *Respawn*.
+The buildings you unlock there will show up in the Builder under the category *Respawn*.
 
 ![Image of the added building option in the Build Gun](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/BuildGunCategory.png)
 
