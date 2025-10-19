@@ -1,6 +1,6 @@
 
 # Respawn Points (A Satisfactory Mod)
-By default, you can only respawn at the one-and-only HUB on the map.
+Normally, you can only respawn at the one-and-only HUB on the map.
 That can lead to long travel times when you die.
 This mod adds buildings that let you respawn at the closest one.
 
@@ -11,16 +11,23 @@ This mod adds buildings that let you respawn at the closest one.
 
 # How it works
 After installing the mod, you will see a new research tree in the MAM called *Respawn Points*.
+
+![Image of the added MAM research tree ](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/MAM.png)
+
 The buildings you unlock there will show up in the Build Gun under the category *Respawn*.
+
+![Image of the added building option in the Build Gun](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/BuildGunCategory.png)
 
 ## Buildings available
 There is currently only one building available: the humble **Pod**.
-(An image of the  Respawn Pod building)
+![An image of the  Respawn Pod building](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/Pod.jpg)
 
 More buildings are planned for future updates.
 
 ## Map markers
 Each building you place will put a marker on your map, which you can then customize to your liking.
+
+![Image of a map marker added by a Respawn Pod](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/MapMarker.jpg)
 
 ## What happens when you die?
 When you die,  you will respawn at the ***closest*** Respawn Point. 
