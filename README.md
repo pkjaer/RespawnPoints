@@ -1,5 +1,6 @@
-
 # Respawn Points (A Satisfactory Mod)
+
+## Overview
 Normally, you can only respawn at the one-and-only HUB on the map.
 That can lead to long travel times when you die.
 This mod adds buildings that let you respawn at the closest one.

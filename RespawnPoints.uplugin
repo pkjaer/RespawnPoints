@@ -1,15 +1,15 @@
 {
 	"FileVersion": 3,
-	"Version": 0,
-	"VersionName": "0.2.0",
-	"FriendlyName": "RespawnPoints",
-	"Description": "Allows you to place custom respawn points in the world, such as bedroll and beds, so you do not always respawn at the HUB. This is particularly useful in multiplayer where you may be spread out across the large world and need to travel very far to get back to your death crate. ",
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Respawn Points",
+	"Description": "Normally, you can only respawn at the one-and-only HUB on the map. That can lead to long travel times when you die. This mod adds buildings that let you respawn at the closest one.",
 	"Category": "Modding",
 	"CreatedBy": "Peter Kjaer",
-	"CreatedByURL": "",
-	"DocsURL": "",
+	"CreatedByURL": "https://ficsit.app/user/3QAAMeywR61DcD",
+	"DocsURL": "https://github.com/pkjaer/RespawnPoints",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/pkjaer/RespawnPoints/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.3"
 		}
 	],
-	"SemVersion": "0.2.0",
+	"SemVersion": "1.0.0",
 	"GameVersion": ">=416835"
 }
