@@ -1,0 +1,41 @@
+
+# Respawn Points (A Satisfactory Mod)
+By default, you can only respawn at the one-and-only HUB on the map.
+That can lead to long travel times when you die.
+This mod adds buildings that let you respawn at the closest one.
+
+### Mutiplayer support
+
+✅ Full multiplayer support, including dedicated servers.
+
+
+# How it works
+After installing the mod, you will see a new research tree in the MAM called *Respawn Points*.
+The buildings you unlock there will show up in the Build Gun under the category *Respawn*.
+
+## Buildings available
+There is currently only one building available: the humble **Pod**.
+(An image of the  Respawn Pod building)
+
+More buildings are planned for future updates.
+
+## Map markers
+Each building you place will put a marker on your map, which you can then customize to your liking.
+
+## What happens when you die?
+When you die,  you will respawn at the ***closest*** Respawn Point. 
+If the HUB happens to be closer, you will respawn at the HUB instead.
+
+## What happens when you uninstall the mod?
+If you uninstall the mod, all Respawn Points you have placed in the world will be deleted the next time you load the save and the standard game logic will apply on death. 
+
+# Feedback welcome
+If you run into any issues (or want to suggest new features or improvements), please create a new issue on [the GitHub page for the mod](https://github.com/pkjaer/RespawnPoints/issues).
+
+# Credits
+I would like to thank the following people for their help in the development of this mod:
+
+ - The [Satisfactory Modding organization](https://github.com/satisfactorymodding) (without their hard work, this mod would never have happened)
+ - Robb (for your encouragement and the idea for the future Porta Potty)
+ - [FishFace](https://ficsit.app/user/5f8AhKYjcVdg4j) (for thinking along with me and for your modeling efforts)
+
