@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.1.0",
 	"FriendlyName": "Respawn Points",
 	"Description": "Normally, you can only respawn at the one-and-only HUB on the map. That can lead to long travel times when you die. This mod adds buildings that let you respawn at the closest one.",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.3"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.1.0",
 	"GameVersion": ">=416835"
 }

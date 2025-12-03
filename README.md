@@ -17,11 +17,16 @@ After installing the mod, you will see a new research tree in the MAM called *Re
 
 The buildings you unlock there will show up in the Builder under the category *Respawn*.
 
-![Image of the added building option in the Build Gun](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/BuildGunCategory.png)
+![Image of the added building options in the Build Gun](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/BuildGunCategory.png)
 
 ## Buildings available
-There is currently only one building available: the humble **Pod**.
+There are currently two buildings available: 
+
+The **Pod** (meant for the outside)
 ![An image of the  Respawn Pod building](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/Pod.jpg)
+
+...and the **Chamber** (for inside factories)
+![An image of the  Respawn Chamber building](https://raw.githubusercontent.com/pkjaer/RespawnPoints/refs/heads/main/_Media/Chamber.jpg)
 
 More buildings are planned for future updates.
 
@@ -44,6 +49,7 @@ If you run into any issues (or want to suggest new features or improvements), pl
 I would like to thank the following people for their help in the development of this mod:
 
  - The [Satisfactory Modding organization](https://github.com/satisfactorymodding) (without their hard work, this mod would never have happened)
+ - Sarah (for your encouragement and for brainstorming with me)
  - Robb (for your encouragement and the idea for the future Porta Potty)
- - [FishFace](https://ficsit.app/user/5f8AhKYjcVdg4j) (for thinking along with me and for your modeling efforts)
+ - [FishFace](https://ficsit.app/user/5f8AhKYjcVdg4j) (for thinking along with me and for your incredible Chamber model)
 
